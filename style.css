@@ -266,7 +266,10 @@ body {
     overflow: hidden;
     text-align: center;
 }
-
+.card:hover{
+    background: #47647A;
+    transition: 0.3s ease-in-out;
+}
 .card i{
     font-size: 50px;
     display: block;
